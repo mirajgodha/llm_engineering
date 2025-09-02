@@ -72,5 +72,5 @@ def display_summary(url):
     display(Markdown(summary))
     print(summary)
 
-url = "https://edwarddonner.com"
+url = "https://quantumroot.in"
 display_summary(url)

@@ -6,8 +6,8 @@ Welcome, PC people!
 
 I should confess up-front: setting up a powerful environment to work at the forefront of AI is not as simple as I'd like. For most people these instructions will go great; but in some cases, for whatever reason, you'll hit a problem. Please don't hesitate to reach out - I am here to get you up and running quickly. There's nothing worse than feeling _stuck_. Message me, email me or LinkedIn message me and I will unstick you quickly!
 
-Email: ed@edwarddonner.com  
-LinkedIn: https://www.linkedin.com/in/eddonner/  
+Email: miraj@quantumroot.in  
+LinkedIn: https://www.linkedin.com/in/mirajgodha/  
 
 I use a platform called Anaconda to set up your environment. It's a powerful tool that builds a complete science environment. Anaconda ensures that you're working with the right version of Python and all your packages are compatible with mine, even if our systems are completely different. It takes more time to set up, and it uses more hard drive space (5+ GB) but it's very reliable once its working.
 
@@ -199,4 +199,4 @@ For those new to Jupyter Lab / Jupyter Notebook, it's a delightful Data Science 
 
 If you have any problems, I've included a notebook in week1 called [troubleshooting.ipynb](week1/troubleshooting.ipynb) to figure it out.
 
-Please do message me or email me at ed@edwarddonner.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
+Please do message me or email me at miraj@quantumroot.in if this doesn't work or if I can help with anything. I can't wait to hear how you get on.

@@ -31,7 +31,7 @@ class Diagnostics:
     def end(self):
         now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         self.log(f"\n\nCompleted diagnostics at {now}\n")
-        print("\nPlease send these diagnostics to me at ed@edwarddonner.com")
+        print("\nPlease send these diagnostics to me at miraj@quantumroot.in")
         print(f"Either copy & paste the above output into an email, or attach the file {self.FILENAME} that has been created in this directory.")
     
 

@@ -194,4 +194,5 @@ config.json
 secret_keys.py
 token.pkl
 client_secretes.json
+videoGenerator/client_secrets.json
 

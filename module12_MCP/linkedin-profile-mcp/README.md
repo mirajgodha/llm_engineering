@@ -20,7 +20,7 @@ This MCP server uses the Fresh LinkedIn Profile Data API to fetch LinkedIn profi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/AIAnytime/Awesome-MCP-Server
+   git clone https://github.com/
    cd linkedin_profile_scraper
    ```
 

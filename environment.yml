@@ -46,3 +46,4 @@ dependencies:
     - feedparser
     - twilio
     - pydub
+    - boto3

@@ -197,3 +197,4 @@ client_secretes.json
 videoGenerator/client_secrets.json
 videoGenerator/*.mp*
 videoGenerator/gcp_createmachine.sh
+myenv/

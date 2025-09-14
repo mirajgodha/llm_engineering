@@ -47,3 +47,4 @@ dependencies:
     - twilio
     - pydub
     - boto3
+    - faiss-cpu
